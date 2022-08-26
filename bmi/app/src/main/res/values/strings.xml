@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">bmi</string>
-    <string name="weight">enter your weight in kg</string>
-    <string name="hint_inches">enter inches</string>
-    <string name="hint_feet">enter height in feets</string>
-    <string name="btn">calculate</string>
-</resources>
